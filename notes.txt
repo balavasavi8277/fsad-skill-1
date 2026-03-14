@@ -1,1 +1,2 @@
 This is a notes file for Git version control lab 
+Feature update added to project 
